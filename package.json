@@ -1,0 +1,10 @@
+{
+  "name": "ci-test-jest",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --json --outputFile=jest-results.json"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
